@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projc20" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projc20" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projc20" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/ABB.h" />
+		<Unit filename="include/DICCIONARIOLDEC.h" />
+		<Unit filename="include/DICNODOLDEC.h" />
+		<Unit filename="include/FICHASCOLA.h" />
+		<Unit filename="include/FINODOCOLA.h" />
+		<Unit filename="include/LDEJugador.h" />
+		<Unit filename="include/ListaSimple.h" />
+		<Unit filename="include/NODOABB.h" />
+		<Unit filename="include/NODOLDEJUGA.h" />
+		<Unit filename="include/NodoLS.h" />
+		<Unit filename="include/Terminal.h" />
+		<Unit filename="include/cabezanodoldec.h" />
+		<Unit filename="include/ldecencabezados.h" />
+		<Unit filename="include/matrizortogonal.h" />
+		<Unit filename="include/nodoortogonal.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/ABB.cpp" />
+		<Unit filename="src/DICCIONARIOLDEC.cpp" />
+		<Unit filename="src/DICNODOLDEC.cpp" />
+		<Unit filename="src/FICHASCOLA.cpp" />
+		<Unit filename="src/FINODOCOLA.cpp" />
+		<Unit filename="src/LDEJugador.cpp" />
+		<Unit filename="src/ListaSimple.cpp" />
+		<Unit filename="src/NODOABB.cpp" />
+		<Unit filename="src/NODOLDEJUGA.cpp" />
+		<Unit filename="src/NodoLS.cpp" />
+		<Unit filename="src/Terminal.cpp" />
+		<Unit filename="src/cabezanodoldec.cpp" />
+		<Unit filename="src/ldecencabezados.cpp" />
+		<Unit filename="src/matrizortogonal.cpp" />
+		<Unit filename="src/nodoortogonal.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,13 @@
+digraph PuntajeGeneral{
+rankdir=LR
+NODOc_0x93861a8[shape=rectangle,color=Red,style=filled,fillcolor=Green,label="jugador: juan
+Puntaje: 11
+"];
+NODOc_0x9386180[shape=rectangle,color=Red,style=filled,fillcolor=Green,label="jugador: carlos
+Puntaje: 0
+"];
+NODOc_0x93861a8->NODOc_0x9386180;
+label="Scoreboard Lista Simple Ordenada
+Los Mejores Puntajes Del Juego.";
+fontsize =15;
+ }

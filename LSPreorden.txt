@@ -1,0 +1,10 @@
+digraph LSimple{
+rankdir=LR
+NODOc_0x876caa8[shape=rectangle,color=Red,style=filled,fillcolor=Green,label="juan
+"];
+NODOc_0x876cad0[shape=rectangle,color=Red,style=filled,fillcolor=Green,label="carlos
+"];
+NODOc_0x876caa8->NODOc_0x876cad0;
+label="Reporte Recorrido Preorden Del ABB.";
+fontsize =15;
+ }

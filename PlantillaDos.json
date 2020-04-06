@@ -1,0 +1,20 @@
+{
+
+    "camaras":
+    [
+        {
+            "nombre": "camaras 1",
+            "ip": "172.16.0.10"
+        },        
+        {
+            "nombre": "camaras 2",
+            "ip": "172.16.0.20"
+        },        
+        {
+            "nombre": "camaras 3",
+            "ip": "172.16.0.30"
+        }
+    ]
+     
+  }
+

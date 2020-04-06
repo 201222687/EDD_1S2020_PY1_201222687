@@ -1,0 +1,74 @@
+digraph MatrizOrtogonal{
+
+rank=same{
+NODOc_0xa03d578[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label=Matriz];
+NODOc_0xa03ea50[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label= Columna_1];
+NODOc_0xa03ea68[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label= Columna_2];
+NODOc_0xa03edd8[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label= Columna_3];
+NODOc_0xa03f140[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label= Columna_4];
+NODOc_0xa03eef8[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label= Columna_5];
+
+}
+rank=TD{
+NODOc_0xa04e1a0[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label=Fila_1];
+
+}NODOc_0xa03ea18[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label=V];
+NODOc_0xa03eda0[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label=A];
+NODOc_0xa03eec0[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label=L];
+NODOc_0xa03f990[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label=E];
+NODOc_0xa03f108[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label=S];
+NODOc_0xa03d578->NODOc_0xa03ea50;
+NODOc_0xa03ea50->NODOc_0xa03ea68;
+NODOc_0xa03ea68->NODOc_0xa03ea50;
+
+rank=TD{
+NODOc_0xa03ea50->NODOc_0xa03ea18;
+NODOc_0xa03ea18;
+
+}NODOc_0xa03ea68->NODOc_0xa03edd8;
+NODOc_0xa03edd8->NODOc_0xa03ea68;
+
+rank=TD{
+NODOc_0xa03ea68->NODOc_0xa03eda0;
+NODOc_0xa03eda0;
+
+}NODOc_0xa03edd8->NODOc_0xa03f140;
+NODOc_0xa03f140->NODOc_0xa03edd8;
+
+rank=TD{
+NODOc_0xa03edd8->NODOc_0xa03eec0;
+NODOc_0xa03eec0;
+
+}NODOc_0xa03f140->NODOc_0xa03eef8;
+NODOc_0xa03eef8->NODOc_0xa03f140;
+
+rank=TD{
+NODOc_0xa03f140->NODOc_0xa03f990;
+NODOc_0xa03f990;
+
+}NODOc_0xa03eef8->NODOc_0xa03ea50;
+NODOc_0xa03ea50->NODOc_0xa03eef8;
+
+rank=TD{
+NODOc_0xa03eef8->NODOc_0xa03f108;
+NODOc_0xa03f108;
+
+}NODOc_0xa03d578->NODOc_0xa04e1a0;
+NODOc_0xa04e1a0->NODOc_0xa04e1a0;
+NODOc_0xa04e1a0->NODOc_0xa04e1a0;
+
+rank=same{
+NODOc_0xa04e1a0->NODOc_0xa03ea18;
+NODOc_0xa03ea18->NODOc_0xa03eda0;
+NODOc_0xa03eda0->NODOc_0xa03ea18;
+NODOc_0xa03eda0->NODOc_0xa03eec0;
+NODOc_0xa03eec0->NODOc_0xa03eda0;
+NODOc_0xa03eec0->NODOc_0xa03f990;
+NODOc_0xa03f990->NODOc_0xa03eec0;
+NODOc_0xa03f990->NODOc_0xa03f108;
+NODOc_0xa03f108->NODOc_0xa03f990;
+NODOc_0xa03f108;
+
+}label="Matriz Ortogonal";
+fontsize =15;
+ }

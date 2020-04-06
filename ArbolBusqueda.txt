@@ -1,0 +1,13 @@
+digraph ArbolABB{
+rankdir=TB
+NODOc_0x877c170[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="juan
+"];
+NODOc_0x877c128[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="carlos
+"];
+NODOc_0x877c170->NODOc_0x877c128;
+NODOc_0x877c128[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="carlos
+"];
+label="Arbol Binario De Busqueda
+Reporte De Jugadores.";
+fontsize =15;
+ }

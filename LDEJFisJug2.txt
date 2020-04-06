@@ -1,0 +1,32 @@
+digraph LDEJFisJug2{
+rankdir=LR
+NODOc_0x8b108c8[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="Ficha: N
+Puntaje: 1  "];
+NODOc_0x8b108f0[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="Ficha: H
+Puntaje: 4  "];
+NODOc_0x8b10918[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="Ficha: L
+Puntaje: 1  "];
+NODOc_0x8b10940[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="Ficha: Ñ
+Puntaje: 8  "];
+NODOc_0x8b10968[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="Ficha: E
+Puntaje: 1  "];
+NODOc_0x8b10990[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="Ficha: T
+Puntaje: 1  "];
+NODOc_0x8b109b8[shape=rectangle,color=Red,style=filled,fillcolor=Skyblue,label="Ficha: A
+Puntaje: 1  "];
+NODOc_0x8b108c8->NODOc_0x8b108f0;
+NODOc_0x8b108f0->NODOc_0x8b108c8;
+NODOc_0x8b108f0->NODOc_0x8b10918;
+NODOc_0x8b10918->NODOc_0x8b108f0;
+NODOc_0x8b10918->NODOc_0x8b10940;
+NODOc_0x8b10940->NODOc_0x8b10918;
+NODOc_0x8b10940->NODOc_0x8b10968;
+NODOc_0x8b10968->NODOc_0x8b10940;
+NODOc_0x8b10968->NODOc_0x8b10990;
+NODOc_0x8b10990->NODOc_0x8b10968;
+NODOc_0x8b10990->NODOc_0x8b109b8;
+NODOc_0x8b109b8->NODOc_0x8b10990;
+label="Lista Doble Enlazada .
+Reporte Fichas Jugador 2: j.";
+fontsize =15;
+ }

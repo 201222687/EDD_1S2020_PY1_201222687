@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1585441444 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/main.cpp
+	<iostream>
+	<ABB.h>
+
+1585434502 
+
+1585441578 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/ABB.cpp
+	"ABB.h"
+
+1585441410 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/ABB.h
+	<NODOABB.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1585434502 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/NODOABB.h
+	<string>
+
+1585438151 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/NODOABB.cpp
+	"NODOABB.h"
+
+1585438151 "
+
+1585441444 source:c:\users\maldonado\desktop\proyecto1edd2020\projc20\main.cpp
+	<iostream>
+	<ABB.h>
+
+1585441410 c:\users\maldonado\desktop\proyecto1edd2020\projc20\include\abb.h
+	<NODOABB.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1585434502 c:\users\maldonado\desktop\proyecto1edd2020\projc20\include\nodoabb.h
+	<string>
+
+1585441578 source:c:\users\maldonado\desktop\proyecto1edd2020\projc20\src\abb.cpp
+	"ABB.h"
+
+1585438151 source:c:\users\maldonado\desktop\proyecto1edd2020\projc20\src\nodoabb.cpp
+	"NODOABB.h"
+
+1585599945 source:/media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/main.cpp
+	<iostream>
+	<ABB.h>
+	<DICCIONARIOLDEC.h>
+
+1585441410 /media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/include/ABB.h
+	<NODOABB.h>
+	<fstream>
+	<iostream>
+	<string>
+
+1585597162 /media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/include/NODOABB.h
+	<string>
+
+1585597172 source:/media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/src/ABB.cpp
+	"ABB.h"
+
+1585597338 source:/media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/src/NODOABB.cpp
+	"NODOABB.h"
+
+1585598904 source:/media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/src/DICCIONARIOLDEC.cpp
+	"DICCIONARIOLDEC.h"
+
+1585598135 /media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/include/DICCIONARIOLDEC.h
+	<DICNODOLDEC.h>
+
+1585597281 /media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/include/DICNODOLDEC.h
+	<string>
+	<iostream>
+
+1585597281 source:/media/maldonado/EAA6A4F2A6A4C085/Users/MALDONADO/Desktop/Proyecto1EDD2020/Projc20/src/DICNODOLDEC.cpp
+	"DICNODOLDEC.h"
+
+1586118616 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/ABB.cpp
+	"ABB.h"
+
+1585729479 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/ABB.h
+	<NODOABB.h>
+	<ListaSimple.h>
+	<fstream>
+	<iostream>
+	<string>
+	<string.h>
+
+1585689820 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/NODOABB.h
+	<ListaSimple.h>
+	<string>
+
+1586072416 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/DICCIONARIOLDEC.cpp
+	"DICCIONARIOLDEC.h"
+
+1586071167 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/DICCIONARIOLDEC.h
+	<DICNODOLDEC.h>
+
+1585597281 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/DICNODOLDEC.h
+	<string>
+	<iostream>
+
+1585597281 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/DICNODOLDEC.cpp
+	"DICNODOLDEC.h"
+
+1585691927 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/NODOABB.cpp
+	"NODOABB.h"
+
+1586149898 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/main.cpp
+	<iostream>
+	<ABB.h>
+	<DICCIONARIOLDEC.h>
+	<ListaSimple.h>
+	<FICHASCOLA.h>
+	<LDEJugador.h>
+	<stdlib.h>
+	<time.h>
+	<matrizortogonal.h>
+	<fstream>
+	<jsoncpp/json/json.h>
+	<jsoncons/json.hpp>
+
+1585730282 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/NodoLS.cpp
+	"NodoLS.h"
+
+1585730282 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/NodoLS.h
+	<string>
+	<iostream>
+
+1585733115 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/ListaSimple.cpp
+	"ListaSimple.h"
+
+1585732802 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/ListaSimple.h
+	<NodoLS.h>
+
+1586150867 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/FICHASCOLA.cpp
+	"FICHASCOLA.h"
+
+1585791767 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/FICHASCOLA.h
+	<FINODOCOLA.h>
+
+1585623426 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/FINODOCOLA.cpp
+	"FINODOCOLA.h"
+
+1585784941 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/FINODOCOLA.h
+	<string>
+	<iostream>
+
+1585689560 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/LSORDENADA.cpp
+	"LSORDENADA.h"
+
+1585689559 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/LSORDENADA.h
+
+1585681509 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/NODOLSOR.cpp
+	"NODOLSOR.h"
+
+1585681509 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/NODOLSOR.h
+
+1586117023 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/LDEJugador.cpp
+	"LDEJugador.h"
+
+1586117102 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/LDEJugador.h
+	<NODOLDEJUGA.h>
+
+1585784941 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/NODOLDEJUGA.cpp
+	"NODOLDEJUGA.h"
+
+1585785008 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/NODOLDEJUGA.h
+	<string>
+	<iostream>
+
+1585941537 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/cabezanodoldec.cpp
+	"cabezanodoldec.h"
+
+1585941537 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/cabezanodoldec.h
+	<nodoortogonal.h>
+	<string>
+
+1585945167 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/nodoortogonal.h
+	<string>
+
+1585945167 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/nodoortogonal.cpp
+	"nodoortogonal.h"
+
+1585941983 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/ldecencabezados.cpp
+	"ldecencabezados.h"
+
+1585941983 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/ldecencabezados.h
+	<cabezanodoldec.h>
+
+1585942158 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/Terminal.cpp
+	"Terminal.h"
+
+1585942158 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/Terminal.h
+	<ldecencabezados.h>
+
+1586120248 source:/home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/src/matrizortogonal.cpp
+	"matrizortogonal.h"
+
+1586120285 /home/maldonado/Escritorio/Proyecto1EDD2020/Projc20/include/matrizortogonal.h
+	<iostream>
+	<ldecencabezados.h>
+	<Terminal.h>
+	<fstream>
+

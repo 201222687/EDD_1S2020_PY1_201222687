@@ -1,0 +1,94 @@
+{ 
+"dimension":20,
+  "casillas": {
+ "dobles": [
+        {
+            "x": 1,
+            "y": 1
+        },        
+        {
+            "x": 1,
+            "y": 2
+        },        
+        {
+            "x": 1,
+            "y": 3
+        }
+        ],
+        "triples": [
+            {
+                "x":2,
+                "y":0
+            },
+            {
+                "x":2,
+                "y":1
+            },
+            {
+                "x":2,
+                "y":2
+            }
+           ]
+    },
+    "diccionario": [
+    	{
+            "palabra":"HOLA"
+        },
+        {
+            "palabra":"KARLA"
+        },
+        {
+            "palabra":"VALESKA"
+        },
+        {
+            "palabra":"MELANY"
+        },
+        {
+            "palabra":"SELENA"
+        } ,   
+        {
+            "palabra":"A"
+        } ,
+        {
+            "palabra":"B"
+        }  ,
+        {
+            "palabra":"C"
+        } 
+         ,   
+        {
+            "palabra":"D"
+        } ,
+        {
+            "palabra":"E"
+        }  ,
+        {
+            "palabra":"F"
+        } ,   
+        {
+            "palabra":"G"
+        } ,
+        {
+            "palabra":"H"
+        }  ,
+        {
+            "palabra":"K"
+        } 
+         ,   
+        {
+            "palabra":"O"
+        } ,
+        {
+            "palabra":"Q"
+        }  ,
+        {
+            "palabra":"R"
+        }
+        ,
+        {
+            "palabra":"AC"
+        }
+
+
+      ]
+}

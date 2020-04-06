@@ -1,0 +1,9 @@
+digraph PuntajeJugador{
+rankdir=LR
+NODOc_0x9385a00[shape=rectangle,color=Red,style=filled,fillcolor=Green,label="0
+"];
+label="Lista Simple Ordenada
+Historial De Puntaje Por Jugador: 
+ carlos";
+fontsize =15;
+ }
